@@ -1,0 +1,10 @@
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\PixieV\PixieV\bin\Debug\PixieV.exe.config
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\PixieV\PixieV\bin\Debug\PixieV.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\PixieV\PixieV\bin\Debug\PixieV.pdb
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\PixieV\PixieV\bin\Debug\PixieV.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\PixieV\PixieV\obj\Debug\PixieV.Form1.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\PixieV\PixieV\obj\Debug\PixieV.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\PixieV\PixieV\obj\Debug\PixieV.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\PixieV\PixieV\obj\Debug\PixieV.exe
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\PixieV\PixieV\obj\Debug\PixieV.xml
+c:\users\s4lsalsoft\documents\visual studio 2012\Projects\PixieV\PixieV\obj\Debug\PixieV.pdb
